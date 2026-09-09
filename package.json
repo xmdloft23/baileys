@@ -1,5 +1,5 @@
 {
-   "name": "@itsliaaa/baileys",
+   "name": "@xmdloft23/baileys",
    "version": "0.3.18-final",
    "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
    "main": "lib/index.js",
@@ -13,7 +13,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/itsliaaa/baileys.git"
+      "url": "git+https://github.com/xmdloft23/baileys.git"
    },
    "files": [
       "lib/**/*",
@@ -32,7 +32,7 @@
       "whatsapp-bot",
       "whatsapp-web"
    ],
-   "homepage": "https://github.com/itsliaaa/baileys#readme",
+   "homepage": "https://github.com/xmdloft23/baileys#readme",
    "author": "Lia Wynn",
    "license": "MIT",
    "dependencies": {
